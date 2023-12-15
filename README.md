@@ -1,0 +1,2 @@
+# diamond-pattern
+Stars pattern
